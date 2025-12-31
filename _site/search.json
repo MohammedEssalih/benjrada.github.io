@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Welcome",
+    "text": "Welcome\nWelcome to my personal academic website.\nI am a postdoctoral researcher in the Department of Economic Sciences at the University of Bergamo (Italy), working under the supervision of Prof. Tomaso Lando. My research lies at the intersection of non-parametric statistics, inverse problems, and shape-constrained estimation, with a strong emphasis on both theoretical foundations and applications to real data."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy main research interests include:\n\nNon-parametric estimation and testing\n\nInverse problems and deconvolution methods\n\nKernel methods and Fourier-based techniques\n\nShape-constrained inference (monotonicity, hazard rates, TTT transform)\n\nAsymptotic theory (weak convergence, almost sure convergence)\n\nStatistical computing and simulation studies in R"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Background",
+    "text": "Background\nI hold a PhD in Statistics, where my thesis focused on the estimation of the hazard rate function under additive measurement error, including: - Quadratic mean convergence\n- Asymptotic distributions\n- Almost sure convergence properties\nI have 10+ years of experience in data analysis and statistical computing, with strong expertise in R, simulation studies, and data visualization."
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Current Work",
+    "text": "Current Work\nI am currently working on:\n- Non-parametric tests under additive noise\n- Deconvolution-based and shape-constrained CDF estimation\n- Power analysis via simulation\n- Applications to reliability and lifetime data"
+  },
+  {
+    "objectID": "index.html#reproducible-research-example",
+    "href": "index.html#reproducible-research-example",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Reproducible Research Example",
+    "text": "Reproducible Research Example\nBelow is a simple example showing how computation and narrative coexist in Quarto:"
+  }
+]

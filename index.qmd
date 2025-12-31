@@ -1,0 +1,54 @@
+---
+title: "my_website"
+---
+
+This is a Quarto website.
+
+---
+title: "Ben Jrada Mohammed Es-salih"
+subtitle: "Postdoctoral Researcher in Statistics & Data Science"
+format:
+  html:
+    theme: brand
+    toc: true
+---
+
+## Welcome
+
+Welcome to my personal academic website.
+
+I am a **postdoctoral researcher** in the **Department of Economic Sciences** at the **University of Bergamo (Italy)**, working under the supervision of *Prof. Tomaso Lando*. My research lies at the intersection of **non-parametric statistics**, **inverse problems**, and **shape-constrained estimation**, with a strong emphasis on both **theoretical foundations** and **applications to real data**.
+
+------------------------------------------------------------------------
+
+## Research Interests
+
+My main research interests include:
+
+-   Non-parametric estimation and testing\
+-   Inverse problems and **deconvolution methods**\
+-   Kernel methods and Fourier-based techniques\
+-   Shape-constrained inference (monotonicity, hazard rates, TTT transform)\
+-   Asymptotic theory (weak convergence, almost sure convergence)\
+-   Statistical computing and simulation studies in **R**
+
+------------------------------------------------------------------------
+
+## Background
+
+I hold a **PhD in Statistics**, where my thesis focused on the estimation of the **hazard rate function under additive measurement error**, including: - Quadratic mean convergence\
+- Asymptotic distributions\
+- Almost sure convergence properties
+
+I have **10+ years of experience** in data analysis and statistical computing, with strong expertise in **R**, simulation studies, and data visualization.
+
+------------------------------------------------------------------------
+
+## Current Work
+
+I am currently working on:
+
+\- Non-parametric tests under additive noise\
+- Deconvolution-based and shape-constrained CDF estimation\
+- Power analysis via simulation\
+- Applications to reliability and lifetime data
