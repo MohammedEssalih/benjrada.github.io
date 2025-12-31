@@ -1,21 +1,78 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - files
+    - images
 
 website:
   title: "Ben Jrada Mohammed Es-salih"
+  site-url: "https://benjrada.github.io"
+  description: >
+    Postdoctoral researcher in Statistics specializing in non-parametric inference,
+    inverse problems, deconvolution, and shape-constrained estimation,
+    with strong expertise in R and applied data analysis.
+  favicon: images/favicon.png
+
   navbar:
+    background: light
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: projects.qmd
+        text: Projects
+      - href: software.qmd
+        text: Software & R
+      - href: cv.qmd
+        text: CV
+      - href: about.qmd
+        text: About
+
+    right:
+      - icon: github
+        href: https://github.com/benjrada
+        aria-label: GitHub
+      - icon: file-earmark-text
+        href: cv.pdf
+        aria-label: Curriculum Vitae
+      - icon: envelope
+        href: mailto:ben.jrada@unibg.it
+        aria-label: Email
+
+  page-footer:
+    left: |
+      © 2025 **Ben Jrada Mohammed Es-salih**  
+      University of Bergamo (UNIBG)
+    right: |
+      Built with [Quarto](https://quarto.org)  
+      Powered by R
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light:
+        - cosmo
+        - brand
+      dark:
+        - darkly
+        - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    code-fold: show
+    code-tools: true
+    highlight-style: github
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 editor: visual
-
+execute:
+  freeze: auto

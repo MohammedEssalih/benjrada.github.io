@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Ben Jrada Mohammed Essalih"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+I am a statistician specializing in non-parametric inference, with strong expertise in deconvolution methods and R-based data analysis. My work combines theoretical rigor with practical implementation, aiming to develop robust statistical tools for contaminated data.

@@ -33,5 +33,12 @@
     "title": "Ben Jrada Mohammed Es-salih",
     "section": "Current Work",
     "text": "Current Work\nI am currently working on:\n- Non-parametric tests under additive noise\n- Deconvolution-based and shape-constrained CDF estimation\n- Power analysis via simulation\n- Applications to reliability and lifetime data"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ben Jrada Mohammed Essalih",
+    "section": "",
+    "text": "I am a statistician specializing in non-parametric inference, with strong expertise in deconvolution methods and R-based data analysis. My work combines theoretical rigor with practical implementation, aiming to develop robust statistical tools for contaminated data."
   }
 ]
