@@ -1,1 +1,195 @@
 /* css styles */
+
+/* ---------- Color palette ---------- */
+:root {
+  --bg-main: #f8fafc;
+  --bg-card: #ffffff;
+  --text-main: #1e293b;
+  --text-muted: #64748b;
+
+  --primary: #2563eb;      /* blue */
+  --primary-soft: #dbeafe;
+
+  --accent: #14b8a6;       /* teal */
+  --accent-soft: #ccfbf1;
+
+  --border-light: #e5e7eb;
+  --code-bg: #0f172a;
+}
+
+/* ---------- Base reset ---------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--text-main);
+  background-color: var(--bg-main);
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3, h4, h5, h6 {
+  color: #0f172a;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 0.6em;
+}
+
+h1 {
+  font-size: 2.3rem;
+  border-bottom: 3px solid var(--primary);
+  padding-bottom: 0.3rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  border-left: 5px solid var(--accent);
+  padding-left: 0.6rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+/* ---------- Text & links ---------- */
+p {
+  margin-bottom: 1.1em;
+  color: var(--text-main);
+}
+
+a {
+  color: var(--primary);
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+/* ---------- Layout ---------- */
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 1.5rem;
+}
+
+/* ---------- Cards ---------- */
+.card {
+  background-color: var(--bg-card);
+  border-radius: 12px;
+  padding: 1.6rem;
+  margin-bottom: 1.6rem;
+  box-shadow: 0 10px 30px rgba(2, 6, 23, 0.08);
+  border-top: 4px solid var(--primary);
+}
+
+/* ---------- Buttons ---------- */
+button,
+.btn {
+  background-color: var(--primary);
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding: 0.65rem 1.3rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+button:hover,
+.btn:hover {
+  background-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+/* Secondary button */
+.btn-secondary {
+  background-color: var(--accent-soft);
+  color: #065f46;
+}
+
+.btn-secondary:hover {
+  background-color: var(--accent);
+  color: #ffffff;
+}
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2rem 0;
+  font-size: 0.95rem;
+}
+
+th, td {
+  padding: 0.75rem 0.9rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+th {
+  background-color: var(--primary-soft);
+  color: #1e3a8a;
+  font-weight: 600;
+}
+
+tr:hover {
+  background-color: var(--accent-soft);
+}
+
+/* ---------- Code blocks ---------- */
+pre {
+  background-color: var(--code-bg);
+  color: #e5e7eb;
+  padding: 1.2rem;
+  border-radius: 12px;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+code {
+  background-color: #e0e7ff;
+  color: #1e3a8a;
+  padding: 0.2rem 0.4rem;
+  border-radius: 6px;
+  font-size: 0.9em;
+}
+
+/* ---------- Alerts ---------- */
+.alert {
+  padding: 1rem 1.2rem;
+  border-radius: 10px;
+  margin: 1.2rem 0;
+}
+
+.alert-info {
+  background-color: var(--primary-soft);
+  border-left: 5px solid var(--primary);
+}
+
+.alert-success {
+  background-color: var(--accent-soft);
+  border-left: 5px solid var(--accent);
+}
+
+/* ---------- Footer ---------- */
+footer {
+  margin-top: 3rem;
+  padding: 1.2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border-light);
+}

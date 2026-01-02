@@ -4,41 +4,167 @@
     "href": "index.html",
     "title": "Ben Jrada Mohammed Es-salih",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "I am a Postdoctoral Researcher in Statistics and Data Science with research interests at the intersection of\nnon-parametric inference, inverse problems, and shape-constrained estimation.\nMy work combines rigorous theoretical analysis with methodological development and applications to real-world data, with a particular focus on measurement error models, deconvolution techniques, and survival analysis."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Ben Jrada Mohammed Es-salih",
     "section": "Welcome",
-    "text": "Welcome\nWelcome to my personal academic website.\nI am a postdoctoral researcher in the Department of Economic Sciences at the University of Bergamo (Italy), working under the supervision of Prof. Tomaso Lando. My research lies at the intersection of non-parametric statistics, inverse problems, and shape-constrained estimation, with a strong emphasis on both theoretical foundations and applications to real data."
+    "text": "Welcome\nWelcome to my personal academic website.\nI am a Postdoctoral Researcher in Statistics and Data Science, with research interests at the intersection of non-parametric statistics, inverse problems, and shape-constrained inference. My work combines rigorous theoretical analysis with methodological development and applications to real-world data."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Ben Jrada Mohammed Es-salih",
     "section": "Research Interests",
-    "text": "Research Interests\nMy main research interests include:\n\nNon-parametric estimation and testing\n\nInverse problems and deconvolution methods\n\nKernel methods and Fourier-based techniques\n\nShape-constrained inference (monotonicity, hazard rates, TTT transform)\n\nAsymptotic theory (weak convergence, almost sure convergence)\n\nStatistical computing and simulation studies in R"
+    "text": "Research Interests\n\nNon-parametric estimation and hypothesis testing under measurement error\n\nInverse problems and deconvolution-based methods\n\nShape-constrained estimation and inference\n\nAsymptotic theory and empirical process methods\n\nStatistical computing, simulations, and reproducible research in R"
   },
   {
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "Ben Jrada Mohammed Es-salih",
     "section": "Background",
-    "text": "Background\nI hold a PhD in Statistics, where my thesis focused on the estimation of the hazard rate function under additive measurement error, including: - Quadratic mean convergence\n- Asymptotic distributions\n- Almost sure convergence properties\nI have 10+ years of experience in data analysis and statistical computing, with strong expertise in R, simulation studies, and data visualization."
+    "text": "Background\nI hold a PhD in Statistics, with a doctoral thesis devoted to the estimation of the hazard rate function under additive measurement error. My work established theoretical properties of the proposed estimators, including convergence results and asymptotic distributions, and demonstrated their performance on real survival data.\nI have over five years of experience in statistical data analysis and methodological research, with strong expertise in R programming, simulation-based studies, and data visualization."
   },
   {
     "objectID": "index.html#current-work",
     "href": "index.html#current-work",
     "title": "Ben Jrada Mohammed Es-salih",
     "section": "Current Work",
-    "text": "Current Work\nI am currently working on:\n- Non-parametric tests under additive noise\n- Deconvolution-based and shape-constrained CDF estimation\n- Power analysis via simulation\n- Applications to reliability and lifetime data"
+    "text": "Current Work\nMy current research focuses on:\n\nDevelopment of non-parametric tests under additive noise\n\nDeconvolution-based and shape-constrained estimation methods"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Ben Jrada Mohammed Essalih",
+    "title": "About Me",
     "section": "",
-    "text": "I am a statistician specializing in non-parametric inference, with strong expertise in deconvolution methods and R-based data analysis. My work combines theoretical rigor with practical implementation, aiming to develop robust statistical tools for contaminated data."
+    "text": "I am a statistician and postdoctoral researcher specializing in non-parametric inference, with strong expertise in inverse problems and deconvolution methods. My research combines theoretical rigor with practical implementation, aiming to develop robust statistical methodologies for data contaminated by measurement error.\nMy work spans shape-constrained estimation, asymptotic theory, and simulation-based inference, with a particular focus on applications in survival analysis and reliability theory.\nI have extensive experience in statistical computing using R, including methodological development, simulation studies, and data visualization, and I actively engage in interdisciplinary research collaborations."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Below you can find my academic curriculum vitae, detailing my research activities, publications, teaching experience, and academic service.\n\n\n\nDownload Academic CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#academic-cv",
+    "href": "cv.html#academic-cv",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Below you can find my academic curriculum vitae, detailing my research activities, publications, teaching experience, and academic service.\n\n\n\nDownload Academic CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#professional-cv",
+    "href": "cv.html#professional-cv",
+    "title": "Curriculum Vitae",
+    "section": "Professional CV",
+    "text": "Professional CV\nBelow you can find my professional CV, highlighting my experience in data analysis, statistical consulting, and applied data science.\n\n\n\nDownload Professional CV (PDF)"
+  },
+  {
+    "objectID": "about.html#ben-jrada-mohammed-es-salih",
+    "href": "about.html#ben-jrada-mohammed-es-salih",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a statistician and postdoctoral researcher specializing in non-parametric inference, with strong expertise in inverse problems and deconvolution methods. My research combines theoretical rigor with practical implementation, aiming to develop robust statistical methodologies for data contaminated by measurement error.\nMy work spans shape-constrained estimation, asymptotic theory, and simulation-based inference, with a particular focus on applications in survival analysis and reliability theory.\nI have extensive experience in statistical computing using R, including methodological development, simulation studies, and data visualization, and I actively engage in interdisciplinary research collaborations."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nNon-parametric estimation and hypothesis testing under measurement error\n\nInverse problems and deconvolution\n\nShape-constrained inference\n\nAsymptotic theory and empirical processes\n\nStatistical computing and reproducible research in R"
+  },
+  {
+    "objectID": "about.html#affiliation",
+    "href": "about.html#affiliation",
+    "title": "About Me",
+    "section": "Affiliation",
+    "text": "Affiliation\nPostdoctoral Researcher\nDepartment of Economic Sciences\nUniversity of Bergamo, Italy"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: your.email@university.it\n\nGitHub: https://github.com/username\n\nGoogle Scholar: https://scholar.google.com/\n\nORCID: https://orcid.org/"
+  },
+  {
+    "objectID": "index.html#research-profile",
+    "href": "index.html#research-profile",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Research Profile",
+    "text": "Research Profile\nI hold a PhD in Statistics, with a doctoral thesis devoted to the estimation of the hazard rate function under additive measurement error. My research established theoretical properties of non-parametric estimators, including convergence results, asymptotic distributions, and almost sure behavior, and demonstrated their performance on real survival data.\nI have over five years of experience in statistical research and data analysis, with strong expertise in R programming, simulation-based studies, and data visualization. I actively collaborate across disciplines and contribute to the development of robust statistical tools for contaminated data."
+  },
+  {
+    "objectID": "index.html#affiliation",
+    "href": "index.html#affiliation",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Affiliation",
+    "text": "Affiliation\nPostdoctoral Researcher\nDepartment of Economic Sciences\nUniversity of Bergamo, Italy"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ben Jrada Mohammed Es-salih",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: mohammedessalih.benjrada@unibg.it\nGitHub: https://github.com/MohammedEssalih\nGoogle Scholar: https://scholar.google.com/citations?user=whyuVEwAAAAJ&hl=fr\n\nORCID: https://orcid.org/my-orcid?orcid=0000-0002-1468-7291"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the intersection of non-parametric statistics, inverse problems, and shape-constrained inference, with a strong emphasis on theoretical foundations and methodological development motivated by real data applications.\nI am particularly interested in statistical inference under measurement error, where classical procedures fail and deconvolution-based techniques are required. My work combines kernel methods, Fourier techniques, and asymptotic theory to construct estimators and tests with provable guarantees."
+  },
+  {
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the intersection of non-parametric statistics, inverse problems, and shape-constrained inference, with a strong emphasis on theoretical foundations and methodological development motivated by real data applications.\nI am particularly interested in statistical inference under measurement error, where classical procedures fail and deconvolution-based techniques are required. My work combines kernel methods, Fourier techniques, and asymptotic theory to construct estimators and tests with provable guarantees."
+  },
+  {
+    "objectID": "research.html#main-research-themes",
+    "href": "research.html#main-research-themes",
+    "title": "Research",
+    "section": "Main Research Themes",
+    "text": "Main Research Themes\n\n🔹 Non-Parametric Estimation under Measurement Error\nA central part of my research focuses on estimating distributional and functional characteristics when observations are contaminated by additive noise. This includes:\n\nDensity and distribution function estimation via deconvolution\nHazard rate estimation under error-in-variables models\nStudy of quadratic mean, almost sure, and weak convergence\nBandwidth selection and bias–variance trade-offs\n\nThese problems naturally arise in reliability analysis, survival analysis, and applied economics.\n\n\n\n🔹 Inverse Problems and Deconvolution Methods\nInverse problems form the theoretical backbone of my work. I investigate:\n\nIll-posedness in statistical inverse problems\nRegularization through kernel and Fourier-based approaches\nNoise-to-signal ratio (NSR) effects on estimator performance\nMinimax rates and asymptotic distributions\n\nSpecial attention is given to Gamma, Gaussian, and Laplace noise structures, motivated by applied contexts.\n\n\n\n🔹 Shape-Constrained Inference\nI am actively working on shape constraints as a way to improve efficiency and interpretability of estimators, including:\n\nMonotonicity and convexity constraints\nShape-constrained CDF and hazard rate estimation\nConstrained vs unconstrained estimator comparisons\nProjection-based methods under noise contamination\n\nThese ideas are currently explored in the context of deconvolution-based tests.\n\n\n\n🔹 Non-Parametric Testing\nMy recent work includes the development of non-parametric hypothesis tests under measurement error, such as:\n\nMonotonicity testing using the Total Time on Test (TTT) transform\nSimulation-based power analysis\nBootstrap and asymptotic calibration\nApplications to lifetime and reliability data"
+  },
+  {
+    "objectID": "research.html#applications-and-data-analysis",
+    "href": "research.html#applications-and-data-analysis",
+    "title": "Research",
+    "section": "Applications and Data Analysis",
+    "text": "Applications and Data Analysis\nAlthough my work is theoretically grounded, I maintain a strong interest in applications, particularly in:\n\nReliability and survival data\nEconomic and environmental datasets\nSimulation studies to validate asymptotic results\n\nI regularly use R for implementation, visualization, and reproducible research, with a focus on clean, modular, and extensible code."
+  },
+  {
+    "objectID": "research.html#current-and-ongoing-projects",
+    "href": "research.html#current-and-ongoing-projects",
+    "title": "Research",
+    "section": "Current and Ongoing Projects",
+    "text": "Current and Ongoing Projects\n\nNon-parametric tests under additive noise\nDevelopment of monotonicity tests using deconvolution and shape constraints.\nShape-constrained CDF estimation under Gamma noise\nPerformance comparison via MSE and asymptotic analysis.\nInverse problems in reliability analysis\nEstimation of hazard functions with provable convergence properties."
+  },
+  {
+    "objectID": "research.html#methods-tools",
+    "href": "research.html#methods-tools",
+    "title": "Research",
+    "section": "Methods & Tools",
+    "text": "Methods & Tools\n\nNon-parametric statistics\nKernel smoothing & Fourier transforms\nDeconvolution techniques\nShape-constrained estimation\nAsymptotic theory\nSimulation studies\nR (advanced statistical computing and visualization)"
+  },
+  {
+    "objectID": "research.html#publications-preprints",
+    "href": "research.html#publications-preprints",
+    "title": "Research",
+    "section": "Publications & Preprints",
+    "text": "Publications & Preprints\nA list of publications and preprints is available on the\nPublications page."
+  },
+  {
+    "objectID": "research.html#collaborations",
+    "href": "research.html#collaborations",
+    "title": "Research",
+    "section": "Collaborations",
+    "text": "Collaborations\nI am open to collaborations in:\n\nNon-parametric inference\nInverse problems\nShape-constrained statistics\nApplications involving noisy or indirect observations\n\nFeel free to reach out if our research interests overlap.\n\n\n“Theory-driven methods, motivated by real data challenges.”"
   }
 ]

@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://benjrada.github.io/index.html</loc>
-    <lastmod>2025-12-31T14:53:31.732Z</lastmod>
+    <lastmod>2026-01-02T20:59:31.235Z</lastmod>
   </url>
   <url>
     <loc>https://benjrada.github.io/about.html</loc>
-    <lastmod>2025-12-31T14:58:18.312Z</lastmod>
+    <lastmod>2025-12-31T21:53:03.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://benjrada.github.io/cv.html</loc>
+    <lastmod>2025-12-31T21:42:35.056Z</lastmod>
+  </url>
+  <url>
+    <loc>https://benjrada.github.io/research.html</loc>
+    <lastmod>2026-01-02T21:05:25.962Z</lastmod>
   </url>
 </urlset>

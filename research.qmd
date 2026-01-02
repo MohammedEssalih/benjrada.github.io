@@ -1,0 +1,126 @@
+---
+title: "Research"
+page-layout: full
+toc: true
+toc-depth: 3
+title-block-banner: true
+---
+
+## Research Overview
+
+My research lies at the intersection of **non-parametric statistics**, **inverse problems**, and **shape-constrained inference**, with a strong emphasis on **theoretical foundations** and **methodological development** motivated by real data applications.
+
+I am particularly interested in statistical inference under **measurement error**, where classical procedures fail and deconvolution-based techniques are required. My work combines **kernel methods**, **Fourier techniques**, and **asymptotic theory** to construct estimators and tests with provable guarantees.
+
+---
+
+## Main Research Themes
+
+### 🔹 Non-Parametric Estimation under Measurement Error
+
+A central part of my research focuses on estimating distributional and functional characteristics when observations are contaminated by **additive noise**. This includes:
+
+- Density and distribution function estimation via **deconvolution**
+- Hazard rate estimation under error-in-variables models
+- Study of **quadratic mean**, **almost sure**, and **weak convergence**
+- Bandwidth selection and bias–variance trade-offs
+
+These problems naturally arise in reliability analysis, survival analysis, and applied economics.
+
+---
+
+### 🔹 Inverse Problems and Deconvolution Methods
+
+Inverse problems form the theoretical backbone of my work. I investigate:
+
+- Ill-posedness in statistical inverse problems
+- Regularization through kernel and Fourier-based approaches
+- Noise-to-signal ratio (NSR) effects on estimator performance
+- Minimax rates and asymptotic distributions
+
+Special attention is given to **Gamma, Gaussian, and Laplace noise structures**, motivated by applied contexts.
+
+---
+
+### 🔹 Shape-Constrained Inference
+
+I am actively working on **shape constraints** as a way to improve efficiency and interpretability of estimators, including:
+
+- Monotonicity and convexity constraints
+- Shape-constrained CDF and hazard rate estimation
+- Constrained vs unconstrained estimator comparisons
+- Projection-based methods under noise contamination
+
+These ideas are currently explored in the context of **deconvolution-based tests**.
+
+---
+
+### 🔹 Non-Parametric Testing
+
+My recent work includes the development of **non-parametric hypothesis tests** under measurement error, such as:
+
+- Monotonicity testing using the **Total Time on Test (TTT) transform**
+- Simulation-based power analysis
+- Bootstrap and asymptotic calibration
+- Applications to lifetime and reliability data
+
+---
+
+## Applications and Data Analysis
+
+Although my work is theoretically grounded, I maintain a strong interest in applications, particularly in:
+
+- Reliability and survival data
+- Economic and environmental datasets
+- Simulation studies to validate asymptotic results
+
+I regularly use **R** for implementation, visualization, and reproducible research, with a focus on clean, modular, and extensible code.
+
+---
+
+## Current and Ongoing Projects
+
+- **Non-parametric tests under additive noise**  
+  Development of monotonicity tests using deconvolution and shape constraints.
+
+- **Shape-constrained CDF estimation under Gamma noise**  
+  Performance comparison via MSE and asymptotic analysis.
+
+- **Inverse problems in reliability analysis**  
+  Estimation of hazard functions with provable convergence properties.
+
+---
+
+## Methods & Tools
+
+- Non-parametric statistics
+- Kernel smoothing & Fourier transforms
+- Deconvolution techniques
+- Shape-constrained estimation
+- Asymptotic theory
+- Simulation studies
+- **R** (advanced statistical computing and visualization)
+
+---
+
+## Publications & Preprints
+
+A list of publications and preprints is available on the  
+[Publications](publications.qmd) page.
+
+---
+
+## Collaborations
+
+I am open to collaborations in:
+
+- Non-parametric inference
+- Inverse problems
+- Shape-constrained statistics
+- Applications involving noisy or indirect observations
+
+Feel free to reach out if our research interests overlap.
+
+---
+
+> *“Theory-driven methods, motivated by real data challenges.”*
