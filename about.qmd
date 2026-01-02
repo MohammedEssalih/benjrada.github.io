@@ -1,5 +1,47 @@
 ---
-title: "Ben Jrada Mohammed Essalih"
+title: "About Me"
+format: html
 ---
 
-I am a statistician specializing in non-parametric inference, with strong expertise in deconvolution methods and R-based data analysis. My work combines theoretical rigor with practical implementation, aiming to develop robust statistical tools for contaminated data.
+::: {.grid}
+::: {.g-col-4 .text-center}
+![](Essalih.jpeg){width=220px .rounded}
+:::
+
+::: {.g-col-8}
+## Ben Jrada Mohammed Es-salih
+
+I am a **statistician and postdoctoral researcher** specializing in **non-parametric inference**, with strong expertise in **inverse problems** and **deconvolution methods**. My research combines **theoretical rigor** with **practical implementation**, aiming to develop robust statistical methodologies for data contaminated by measurement error.
+
+My work spans **shape-constrained estimation**, **asymptotic theory**, and **simulation-based inference**, with a particular focus on applications in **survival analysis** and **reliability theory**.
+
+I have extensive experience in **statistical computing using R**, including methodological development, simulation studies, and data visualization, and I actively engage in interdisciplinary research collaborations.
+:::
+:::
+
+---
+
+## Research Interests
+
+- Non-parametric estimation and hypothesis testing under measurement error  
+- Inverse problems and deconvolution  
+- Shape-constrained inference  
+- Asymptotic theory and empirical processes  
+- Statistical computing and reproducible research in **R**
+
+---
+
+## Affiliation
+
+**Postdoctoral Researcher**  
+Department of Economic Sciences  
+University of Bergamo, Italy
+
+---
+
+## Contact
+
+- **Email:** your.email@university.it  
+- **GitHub:** https://github.com/username  
+- **Google Scholar:** https://scholar.google.com/  
+- **ORCID:** https://orcid.org/

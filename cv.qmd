@@ -1,0 +1,26 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## Academic CV
+
+Below you can find my **academic curriculum vitae**, detailing my research activities, publications, teaching experience, and academic service.
+
+::: {.text-center}
+![](cv_academic.pdf){width=100% height=1000px}
+:::
+
+[Download Academic CV (PDF)](cv_academic.pdf)
+
+---
+
+## Professional CV
+
+Below you can find my **professional CV**, highlighting my experience in data analysis, statistical consulting, and applied data science.
+
+::: {.text-center}
+![](cv_professional.pdf){width=100% height=1000px}
+:::
+
+[Download Professional CV (PDF)](cv_professional.pdf)

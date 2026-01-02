@@ -1,10 +1,4 @@
 ---
-title: "Ben Jrada Mohammed Essalih"
----
-
-This is a Quarto website.
-
----
 title: "Ben Jrada Mohammed Es-salih"
 subtitle: "Postdoctoral Researcher in Statistics & Data Science"
 format:
@@ -13,42 +7,59 @@ format:
     toc: true
 ---
 
-## Welcome
+::: {.grid .align-items-center}
+::: {.g-col-4 .text-center}
+![](Essalih.jpeg){width=240px .rounded}
+:::
 
-Welcome to my personal academic website.
+::: {.g-col-8}
+I am a **Postdoctoral Researcher in Statistics and Data Science** with research interests at the intersection of  
+**non-parametric inference**, **inverse problems**, and **shape-constrained estimation**.
 
-I am a **postdoctoral researcher** in the **Department of Economic Sciences** at the **University of Bergamo (Italy)**, working under the supervision of *Prof. Tomaso Lando*. My research lies at the intersection of **non-parametric statistics**, **inverse problems**, and **shape-constrained estimation**, with a strong emphasis on both **theoretical foundations** and **applications to real data**.
+My work combines **rigorous theoretical analysis** with **methodological development** and **applications to real-world data**, with a particular focus on **measurement error models**, **deconvolution techniques**, and **survival analysis**.
+:::
+:::
 
-------------------------------------------------------------------------
+---
+
+## Research Profile
+
+I hold a **PhD in Statistics**, with a doctoral thesis devoted to the estimation of the **hazard rate function under additive measurement error**. My research established theoretical properties of non-parametric estimators, including **convergence results**, **asymptotic distributions**, and **almost sure behavior**, and demonstrated their performance on real survival data.
+
+I have **over five years of experience** in statistical research and data analysis, with strong expertise in **R programming**, simulation-based studies, and data visualization. I actively collaborate across disciplines and contribute to the development of robust statistical tools for contaminated data.
+
+---
 
 ## Research Interests
 
-My main research interests include:
+- Non-parametric estimation and hypothesis testing under **measurement error**  
+- **Inverse problems** and deconvolution-based methods  
+- **Shape-constrained** estimation and inference  
+- Asymptotic theory and empirical process methods  
+- Statistical computing, simulations, and reproducible research in **R**
 
--   Non-parametric estimation and testing\
--   Inverse problems and **deconvolution methods**\
--   Kernel methods and Fourier-based techniques\
--   Shape-constrained inference (monotonicity, hazard rates, TTT transform)\
--   Asymptotic theory (weak convergence, almost sure convergence)\
--   Statistical computing and simulation studies in **R**
-
-------------------------------------------------------------------------
-
-## Background
-
-I hold a **PhD in Statistics**, where my thesis focused on the estimation of the **hazard rate function under additive measurement error**, including: - Quadratic mean convergence\
-- Asymptotic distributions\
-- Almost sure convergence properties
-
-I have **10+ years of experience** in data analysis and statistical computing, with strong expertise in **R**, simulation studies, and data visualization.
-
-------------------------------------------------------------------------
+---
 
 ## Current Work
 
-I am currently working on:
+My current research focuses on:
 
-\- Non-parametric tests under additive noise\
-- Deconvolution-based and shape-constrained CDF estimation\
-- Power analysis via simulation\
-- Applications to reliability and lifetime data
+- Development of **non-parametric tests** under additive noise  
+- **Deconvolution-based** and **shape-constrained** estimation methods  
+
+---
+
+## Affiliation
+
+**Postdoctoral Researcher**  
+Department of Economic Sciences  
+University of Bergamo, Italy
+
+---
+
+## Contact
+
+- **Email:** mohammedessalih.benjrada@unibg.it 
+- **GitHub:** https://github.com/MohammedEssalih
+- **Google Scholar:** https://scholar.google.com/citations?user=whyuVEwAAAAJ&hl=fr  
+- **ORCID:** https://orcid.org/my-orcid?orcid=0000-0002-1468-7291

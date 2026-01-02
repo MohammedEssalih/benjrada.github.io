@@ -32,18 +32,17 @@ website:
         text: Software & R
       - href: cv.qmd
         text: CV
-      - href: about.qmd
-        text: About
+      
 
     right:
       - icon: github
-        href: https://github.com/benjrada
+        href: https://github.com/MohammedEssalih
         aria-label: GitHub
       - icon: file-earmark-text
         href: cv.pdf
         aria-label: Curriculum Vitae
       - icon: envelope
-        href: mailto:ben.jrada@unibg.it
+        href: mailto:"mohammedessalih.benjrada@unibg.it
         aria-label: Email
 
   page-footer:
@@ -66,7 +65,8 @@ format:
     css: styles.css
     toc: true
     toc-depth: 3
-    
+    code-fold: show
+    code-tools: true
     highlight-style: github
     smooth-scroll: true
     link-external-icon: true
